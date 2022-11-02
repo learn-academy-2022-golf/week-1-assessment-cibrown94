@@ -44,9 +44,8 @@ console.log(languages[index])
 const weekendDays = ["saturday", "sunday"]          WORK ON ANSWER TO THIS ONE
 console.log(weekendDays.toUpperCase())
 
-// a) Your answer: SATURDAY SUNDAY
-// b) Verify and explain: TypeError: weekendDays.toUpperCase is not a function. The .toUpperCase with uppercase the letters
-
+/ a) Your answer: SATURDAY SUNDAY
+// b) Verify and explain: TypeError: weekendDays.toUpperCase is not a function. The .toUpperCase is not a function. It is a built in method. Must be on the right type of data. Must invoke the method by using the name. Has to be the right kind of data. In order for it capitalize both there needs to be 2 consoles logs for each string.
 // --------------------5) What will this log?
 
 const dataTypes = ["number", "string", "Boolean", "undefined"]
